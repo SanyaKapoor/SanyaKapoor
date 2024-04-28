@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
+ <summary> <b>My Git Stats</b>: </summary>
+<br>
 [![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)](https://github.com/SanyaKapoor)
-
 <br>
 
 <p align = "center">
