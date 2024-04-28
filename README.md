@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <summary> <b>My Git Stats</b>: </summary>
-<br>
+ <summary> <b>My Git Stats</b>: </summary><br>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)](https://github.com/SanyaKapoor)
 <br>
 
