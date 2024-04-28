@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)](https://github.com/SanyaKapoor)
+
 <br>
 
 <p align = "center">
