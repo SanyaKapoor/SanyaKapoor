@@ -1,10 +1,15 @@
-<summary><b>My Git Stats</b>:</summary>
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SanyaKapoor&color=004f90)](https://github.com/SanyaKapoor)
+<summary><b>Analytical Engineering Metrics</b>:</summary>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanyaKapoor&theme=radical" alt="Sanya's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanyaKapoor&theme=radical" alt="Profile Details" />
+  <!-- Interactive Language Distribution Wheel -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanyaKapoor&theme=radical" width="48%" alt="Language Distribution across Repositories" />
+  
+  <!-- Commit Velocity and Code Habits Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanyaKapoor&theme=radical" width="48%" alt="Commit Stats and Contribution Profile" />
+</p>
+
+<p align="center">
+  <!-- Productive Commit Worksheets (Time vs. Activity) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanyaKapoor&theme=radical&utc_offset=1" width="97%" alt="Commit Activity Velocity Matrix" />
 </p>
